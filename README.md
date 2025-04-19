@@ -1,5 +1,8 @@
 # 🧠 ASL Recognition using CNN
 
+![sign language](https://github.com/user-attachments/assets/3a7eb912-5ff0-4b0a-8e4d-4623cdc5bbd9)
+
+
 This project focuses on recognizing American Sign Language (ASL) characters using Convolutional Neural Networks (CNNs). The model was trained and evaluated on a dataset containing grayscale images of ASL letters and digits, achieving **98.01% test accuracy**.  
 
 The model handles classification of both **letters (A–Z)** and **digits (0–9)**, making it suitable for real-time sign language interpretation applications.
